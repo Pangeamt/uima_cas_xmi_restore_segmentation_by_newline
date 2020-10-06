@@ -18,8 +18,8 @@ Install this library:
 ```
 
 ## Usage
-1) In Inception, export the file as UIMA CAS XMI
-2) The run: 
+1) In Inception, export the file as UIMA CAS XMI.
+2) With your preferred python editor:
 ```python
 from uima_cas_xmi_restore_segmentation_by_newline import uima_cas_xmi_restore_segmentation_by_newline
 
@@ -31,4 +31,4 @@ uima_cas_xmi_restore_segmentation_by_newline(
 
 
 ```
-3) Unzip the uima_cas_xmi_resegmented.zip file and upload the xmi file to Inception
+3) Unzip the uima_cas_xmi_resegmented.zip file and upload the xmi file to Inception.
